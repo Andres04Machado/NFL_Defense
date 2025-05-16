@@ -20,6 +20,7 @@
 - [7. Conclusion](#7-conclusion)
 - [8. Future Work](#8-future-work)
 
+To see R script visit the [code](https://github.com/Andres04Machado/NFL_Defense/tree/main/code) folder. To see the individual plots that are shown below visit the [plots](https://github.com/Andres04Machado/NFL_Defense/tree/main/plots) folder.
 
 # Research Question:
 **How do specific defense statistics correlate with NFL teams' final standings in the regular season standings?**
